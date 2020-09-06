@@ -1,0 +1,10 @@
+C:\Users\kousu\source\repos\Project\MyClock\MyClock\bin\Release\MyClock.exe.config
+C:\Users\kousu\source\repos\Project\MyClock\MyClock\bin\Release\MyClock.exe
+C:\Users\kousu\source\repos\Project\MyClock\MyClock\bin\Release\MyClock.pdb
+C:\Users\kousu\source\repos\Project\MyClock\MyClock\obj\Release\MyClock.Form1.resources
+C:\Users\kousu\source\repos\Project\MyClock\MyClock\obj\Release\MyClock.Form2.resources
+C:\Users\kousu\source\repos\Project\MyClock\MyClock\obj\Release\MyClock.Properties.Resources.resources
+C:\Users\kousu\source\repos\Project\MyClock\MyClock\obj\Release\MyClock.csproj.GenerateResource.cache
+C:\Users\kousu\source\repos\Project\MyClock\MyClock\obj\Release\MyClock.csproj.CoreCompileInputs.cache
+C:\Users\kousu\source\repos\Project\MyClock\MyClock\obj\Release\MyClock.exe
+C:\Users\kousu\source\repos\Project\MyClock\MyClock\obj\Release\MyClock.pdb
